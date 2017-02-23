@@ -5,4 +5,6 @@ Example sketch is for 20m Band.  Please use low pass filter!
 
 Use attached libraries as some small changes were made to work with the ESP32
 
-Output is clock0
+Clock sync is done via NTP over wifi.  No need to connect to a PC or GPS
+
+
